@@ -6,7 +6,7 @@
 <string>Apple LLVM version 8.0.0 (clang-800.0.42.1)</string>
  <key>files</key>
  <array>
-  <string>/Users/macy/git_portfolio/tmp/reactnative_manager/node_modules/react-native/React/Base/RCTModuleMethod.mm</string>
+  <string>/Users/macy/SmallProjects/github_portfolio/reactnative_manager/node_modules/react-native/React/Base/RCTModuleMethod.mm</string>
  </array>
  <key>diagnostics</key>
  <array>

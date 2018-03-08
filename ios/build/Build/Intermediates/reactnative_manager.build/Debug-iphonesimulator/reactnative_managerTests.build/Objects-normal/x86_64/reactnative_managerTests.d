@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/reactnative_managerTests/reactnative_managerTests.m \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/reactnative_managerTests/reactnative_managerTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -29,14 +29,14 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/macy/git_portfolio/tmp/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/macy/SmallProjects/github_portfolio/reactnative_manager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

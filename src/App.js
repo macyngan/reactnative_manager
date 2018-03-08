@@ -4,13 +4,13 @@ import { createStore, applyMiddleware } from 'redux'
 import reducers from './reducers'
 import ReduxThunk from 'redux-thunk'
 import firebase from 'firebase'
-import LoginForm from './components/LoginForm'
+import Router from './Router'
 
 class App extends Component {
 
   componentWillMount() {
     const config = {
-        apiKey: 'xxxxxxxxxxxxxxxx',
+        apiKey: 'xxxxxxx',
         authDomain: 'reactnative-manager-13ceb.firebaseapp.com',
         databaseURL: 'https://reactnative-manager-13ceb.firebaseio.com',
         projectId: 'reactnative-manager-13ceb',
@@ -26,7 +26,7 @@ class App extends Component {
 
     return(
       <Provider store={store}>
-        <LoginForm />
+        <Router />
       </Provider>
     )
   }
