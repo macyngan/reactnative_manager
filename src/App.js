@@ -10,7 +10,7 @@ class App extends Component {
 
   componentWillMount() {
     const config = {
-        apiKey: 'xxxxxxx',
+        apiKey: 'xxxxx',
         authDomain: 'reactnative-manager-13ceb.firebaseapp.com',
         databaseURL: 'https://reactnative-manager-13ceb.firebaseio.com',
         projectId: 'reactnative-manager-13ceb',
