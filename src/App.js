@@ -10,7 +10,7 @@ class App extends Component {
 
   componentWillMount() {
     const config = {
-        apiKey: 'xxxxx',
+        apiKey: 'xxxxxx',
         authDomain: 'reactnative-manager-13ceb.firebaseapp.com',
         databaseURL: 'https://reactnative-manager-13ceb.firebaseio.com',
         projectId: 'reactnative-manager-13ceb',
@@ -19,6 +19,16 @@ class App extends Component {
     }
 
     firebase.initializeApp(config)
+
+/*
+    firebase.auth().onAuthStateChanged((user)=>{
+      if(user) {
+        this.setState({loggedIn: true})
+      }else{
+        this.setState({loggedIn: false})
+      }
+    })
+*/
   }
 
   render() {
